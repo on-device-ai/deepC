@@ -141,4 +141,5 @@ By bringing deep learning models to tiny microcontrollers, we can boost the inte
 
 #### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/dnnc/contribute)]
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/dnnc/contribute)]  
+[![220330](https://user-images.githubusercontent.com/44540872/160744400-d299b033-f422-4e27-a3ed-7ce994b17157.png)](https://opencollective.com/dnnc#category-CONTRIBUTE)  
